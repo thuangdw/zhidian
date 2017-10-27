@@ -1,0 +1,2 @@
+# zhidian
+Dictionary with AI
