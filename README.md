@@ -1,2 +1,2 @@
 # zhidian
-Dictionary with AI
+A Mobile and Desktop Dictionary with AI
